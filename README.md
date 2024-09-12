@@ -9,7 +9,8 @@
 
 - 🌱 I’m currently learning **Data Analytics**
 
-- 👨‍💻 All of my projects are available at [https://ismailmaaji.github.io/IsmailMaaji1.github.io/](https://ismailmaaji.github.io/IsmailMaaji1.github.io/)
+- 👨‍💻 All of my projects are available at [https://ismailmaaji.github.io/IsmailMaaji1.github.io/](datascienceportfol.io/Ismail_Maaji
+)
 
 - 📫 How to reach me **maajiismail2000@gmail.com**
 
