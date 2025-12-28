@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm IsmailMaaji</h1>
-<h3 align="center">Data analyst and web developer based in Casablanca. I specialize in turning complex data into actionable insights and creating seamless</h3>
+<h3 align="center">Data analyst and web developer based in Casablanca. I specialize in turning complex data into actionable insights and creating seamless designs</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismailmaaji&label=Profile%20views&color=0e75b6&style=flat" alt="ismailmaaji" /> </p>
 
